@@ -1,0 +1,1 @@
+{"id":"c","ext":"c","version":"GNU GCC v4.9.2","compile":"gcc -o main *.c -I src -I src/boards/loramote -I src/boards/loramote/cmsis -I src/boards/mcu/stm32 -I src/boards/mcu/stm32/cmsis -I src/mac -I src/system -I src/system/crypto","execute":"main","preview":"","command":"","file":"/home/cg/src/samples/main.c","url":"compile_c_online.php","mode":"c_cpp"}
